@@ -1,6 +1,7 @@
 // Each name should be in the format "Stu1, Stu2, and Stu3" with an optional URL
 var names = [
-    ["CSA_logo", "https://www.sbhscs.org"]
+    ["Adrian", "https://codehs.com/sandbox/id/new-sandbox-program-ph4yDG"],
+    ["Milo", "https://openprocessing.org/sketch/2649825"]
 ];
 
 var gridWidth = 4;
