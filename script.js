@@ -3,7 +3,7 @@ var names = [
     ["Adrian", "https://codehs.com/sandbox/id/new-sandbox-program-ph4yDG"],
     ["David", "https://editor.p5js.org/chavezdavid0609/full/FHmuaaA2j"],
     ["Emiliano and Harvey", "https://balderdashstudios.github.io/WaitingSimulator2/"],
-    ["Jaden, Luis, Max, and Noe"],
+    "Jaden, Luis, Max, and Noe",
     ["Milo", "https://openprocessing.org/sketch/2649825"],
     ["Santiago", "https://codehs.com/sandbox/id/2p-project-geometry-lab-26tOQm"],
     ["Simon", "https://openprocessing.org/sketch/2519009"]
